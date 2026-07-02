@@ -33,9 +33,9 @@ To run the application, activate the dedicated Conda environment on Windows:
 
 ## How to run
 Trigger the main pipeline from your terminal. The script will automatically calculate absolute paths to locate your scene.ply file safely.
-
+``` bash
 python src/main.py
-
+```
 ## Interactive Controls
 Once the 3D viewer launches, use the following keyboard shortcuts to interact with the environment:
 
