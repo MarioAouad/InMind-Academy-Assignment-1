@@ -55,6 +55,6 @@ Once the 3D viewer launches, use the following keyboard shortcuts to interact wi
 | **P** | Screenshot | Captures the current view and saves a timestamped image to the screenshots folder. |
 | **R** | Reset | Restores the original point cloud data from the deep-copied vault. |
 
-* **Extra Challenges Completed:** 
+## Extra Challenges Completed: 
   * Integrated real-time point size scaling controls.
   * Built an automated screenshot export tool that dynamically generates a `screenshots/` directory and saves timestamped `.png` files.
